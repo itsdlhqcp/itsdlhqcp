@@ -2,9 +2,8 @@
 - 👋 I'm a Computer Science student and a Quantum Computing enthusiast
 - 🔭 I have 3+ year of experience of working with different softwares
 - 🌱 I'm currently improving myself in Competitive Programming and Machine Learning
-- ⚡ Fun fact: I LOVE to play piano 🎹
+- ⚡ Fun fact: I LOVE to wandering 
 
-- 📫 How to reach me ...
 
 <!---
 itsdlhqcp/itsdlhqcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
