@@ -2,7 +2,7 @@
 - 👋 I'm a Computer Science student and a Quantum Computing enthusiast
 - 🔭 I have 3+ year of experience of working with different softwares
 - 🌱 I'm currently improving myself in Competitive Programming and Machine Learning
-- ⚡ Fun fact: I LOVE wandering 
+- ⚡ Fun fact: I LOVE wandering world
 
 
 <!---
