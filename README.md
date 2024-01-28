@@ -12,6 +12,7 @@
 - 🔭 I have 3+ year of experience of working with different softwares
 - 🌱 I'm currently improving myself in Competitive Programming and Machine Learning
 - ⚡ Fun fact: I Love to go to gym
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
 
