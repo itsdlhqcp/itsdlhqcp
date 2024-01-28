@@ -18,6 +18,8 @@
   
   ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdlhqcp&layout=compact)](https://github.com/itsdlhqcp)
+
 <h3>Languages and Tools:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
