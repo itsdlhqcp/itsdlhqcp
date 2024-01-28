@@ -16,7 +16,7 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
   <h3>📊 Github Stats</h3>
-  <hr style="height:0.5px; border:none; color:#FFFFFF; background-color:#FFFFFF;">
+  <hr style="height:0.1px; border:none; color:#FFFFFF; ">
 
 ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
 
