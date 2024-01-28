@@ -15,7 +15,7 @@
 
 
   <h3>📊 Github Stats</h3>
-  <br>
+  <br/>
 
 ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
 
