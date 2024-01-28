@@ -1,3 +1,8 @@
+Hi there, I'm Dilhaque Ahemmed C P
+<img width="813" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/itsdlhqcp/itsdlhqcp/assets/95963252/73d58c9f-8873-4587-bf3f-f0aa152085ba">
+
+
+
 - 👋 Hi, I’m @itsdlhqcp
 - 👋 I'm a Computer Science student and a Quantum Computing enthusiast
 - 🔭 I have 3+ year of experience of working with different softwares
