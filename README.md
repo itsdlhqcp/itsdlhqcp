@@ -13,6 +13,8 @@
 - 🌱 I'm currently improving myself in Competitive Programming and Machine Learning
 - ⚡ Fun fact: I Love to go to gym
 
+![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
+
 
 <!---
 itsdlhqcp/itsdlhqcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
