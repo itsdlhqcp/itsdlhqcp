@@ -18,6 +18,11 @@
   
   ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
 
+  <h3 style="position: relative;">📊 Github Stats <span style="position: absolute; bottom: -4px; left: 0; height: 1px; width: 50px; background-color: #FFFFFF;"></span></h3>
+
+![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
+
+
 
 <!---
 itsdlhqcp/itsdlhqcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
