@@ -13,6 +13,14 @@
 - 👯 I’m looking to collaborate in web dev projects
 - ⚡ Fun fact: I Love to go to gym
 
+- ## 🔭 I'm currently working on
+
+- My old projects
+- Restaurant Recommendation App (React-Native)
+- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My next blog
+- My CSS skill
+
   <h2>📊 Github Stats</h2>
   
   ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=dark)
