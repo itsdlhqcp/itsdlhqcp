@@ -16,7 +16,7 @@
 
   <h2>📊 Github Stats</h2>
   
-  ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=transparent)
+  ![Dilhaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdlhqcp&show_icons=true&theme=dark)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdlhqcp&layout=compact)](https://github.com/itsdlhqcp)
 
