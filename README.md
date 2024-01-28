@@ -13,13 +13,6 @@
 - 👯 I’m looking to collaborate in web dev projects
 - ⚡ Fun fact: I Love to go to gym
 
-- ## 🔭 I'm currently working on
-
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
 
   <h2>📊 Github Stats</h2>
   
@@ -68,6 +61,9 @@
 <hr style="height:0.1px; border:none; color:#FFFFFF; ">
 
 <h3>Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/dilhaque-ahemmed-cp-1a71ba228/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/dlhq__"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 
 
