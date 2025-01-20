@@ -5,8 +5,8 @@
 
 
 - 👋 Hi, I’m @itsdlhqcp
-- 🔭 Currently, I am honing my dev and core java skills.
-- 💬 Ask me About Web development and IoT Technolgies.
+- 🔭 Currently, I am conducting research on AI/ML and Blockchain technologies.
+- 💬 Feel free to ask me about system design and IoT technologies.
 - 👋 I'm a Computer Science student and a Quantum Computing enthusiast
 - 🔭 I have 3+ year of experience of working with different softwares
 - 🌱 I'm currently improving myself in Competitive Programming and Machine Learning
